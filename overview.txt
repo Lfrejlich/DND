@@ -1,0 +1,30 @@
+Dictionaries Required
+	- names
+	- races
+	- classes
+	- backgrounds
+
+
+Character Sheet Requirements
+	- name
+	- class
+	- level
+	- background
+	- player name
+	- race
+	- alignment
+	- main stats (str, dex, con, int, wis, chr)
+	- saving throws
+	- secondary stats (acrobatics...)
+	- perception
+	- AC
+	- initiative
+	- speed
+	- HP
+	- hit dice
+	- personality traits
+	- ideals
+	- bonds
+	- flaws
+	- attacks and spellcasting
+	- features and traits
